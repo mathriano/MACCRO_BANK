@@ -1,0 +1,155 @@
+Periodo;Cliente_Key;Codigo_Cliente;Cant_Reclamo;Numero_Reclamo;Nombre_Tipologia;Descripcion_Tipologia;Producto_Tipologia;Reinicio;Tiempo_Real_Resolucion;Tiempo_Real_Cierre;Tiempo_Desvio;Tiempo_Estimado_Resolucion
+"2015-12";34015;21524;1;"R-3300218";"CAJ. AUTOM. SUC MACRO- NO ENTREGO DINERO";"Extracciones en Efectivo ATM Propio_Sucursal no entrego Dinero";"Tarjeta de Débito";"N";5;5;-5;10
+"2015-12";61859;1316968;1;"R-3329478";"IMPUESTO LEY 25413/II BB – OTROS INCONVENIENTES - CAJA DE AHORRO";"Impuesto Ley 25413/II BB – Otros inconvenientes";"Caja de Ahorro";"N";1;1;-19;20
+"2015-12";82602;118120;1;"R-3330043";"INCONVENIENTES CON CUOTIFICACION DE SALDO O CAIDA DE CUOTAS";"Inconvenientes con Cuotificacion de Saldo o Caida de Cuotas";"Tarjeta de Crédito";"N";3;3;-4;7
+"2015-12";109535;72793;1;"R-3324588";"REVERSO DE PAGO- DUPLICADO";"Reverso de Pago";"Tarjeta de Crédito";"N";3;3;0;3
+"2015-12";132827;32800;1;"R-3337114";"POLIZA NO RECIBIDA - SEGUROS";"Reclamo de Poliza - Seguros";"Seguros";"N";1;1;-6;7
+"2015-12";162645;112911;1;"R-3324939";"MODIFICACION EN CUENTA NO PROCESADA - CUENTA CORRIENTE";"Modificación en cuenta no procesada - Cuenta Corriente";"Cuenta Corriente";"N";5;5;-5;10
+"2015-12";183754;138666;1;"R-3329151";"DEBITOS AUTOMATICOS NO INGRESADOS";"Debitos Automaticos no Ingresados ";"Tarjeta de Crédito";"N";1;1;-9;10
+"2015-12";201599;1019987;1;"R-3320387";"REVERSO DE PAGO- PARCIAL";"Reverso de Pago - Parcial";"Tarjeta de Crédito";"N";1;1;-4;5
+"2015-12";215000;1036108;1;"R-3319688";"E_RESUMEN- NO RECEPCION";"Auditoria de E_resumen";"Tarjeta de Crédito";"N";1;1;-9;10
+"2015-12";241618;1073012;1;"R-3325342";"TARJETA NO RECIBIDA- SEGUIMIENTO DE ENTREGA";"Rastreo de Tarjeta ";"Tarjeta de Crédito";"N";6;6;-6;12
+"2015-12";269978;1102065;1;"R-3330886";"REVERSO DE PAGO- DUPLICADO";"Reverso de Pago";"Tarjeta de Crédito";"N";3;3;0;3
+"2015-12";286455;1127916;1;"R-3321582";"CUESTIONA FECHA DE DEBITO DE CUOTA - CARTERA DE CREDITO";"Cuestiona Fecha de Debito de Cuota - Cartera de Credito";"Préstamo";"N";3;3;-2;5
+"2015-12";301440;1041206;1;"R-3255522";"TARJETA NO RECIBIDA- SEGUIMIENTO DE ENTREGA";"Rastreo de Tarjeta ";"Tarjeta de Crédito";"N";7;7;-5;12
+"2015-12";321231;1064994;1;"R-3329021";"CAJ. AUTOM. SUC MACRO- NO ENTREGO DINERO";"Extracciones en Efectivo ATM Propio_Sucursal no entrego Dinero";"Tarjeta de Débito";"N";2;2;-8;10
+"2015-12";343698;1197780;1;"R-3286422";"CONSUMOS EN PESOS- DUPLICADO";"Consumos Duplicados ";"Tarjeta de Crédito";"N";22;22;-25;60
+"2015-12";373356;1133834;1;"R-3333958";"REVERSO DE PAGO- DUPLICADO";"Reverso de Pago";"Tarjeta de Crédito";"N";1;1;-2;3
+"2015-12";394608;1159053;1;"R-3327940";"INCONVENIENTES PARA OPERAR EN CAJ. AUTOM. MACRO";"Inconvenientes para Operar en Cajero Automatico Propio";"Tarjeta de Débito";"N";2;2;-5;7
+"2015-12";426124;1293761;1;"R-3293589";"BONIFICACIONES – COMERCIOS VARIOS";"BONIFICACIONES – COMERCIOS VARIOS";"Tarjeta de Crédito";"N";8;8;-2;10
+"2015-12";463100;1245111;1;"R-3328914";"CAJ. AUTOM. SUC MACRO- NO ENTREGO DINERO";"Extracciones en Efectivo ATM Propio_Sucursal no entrego Dinero";"Tarjeta de Débito";"N";1;1;-9;10
+"2015-12";498783;1369747;1;"R-3304832";"DEBITO AUTOMATICO SERV.- NO RECONOCIDO";"DEBITO AUTOMATICO SERV.- NO RECONOCIDO";"Tarjeta de Crédito";"N";26;26;-3;30
+"2015-12";531783;1414748;1;"R-3245541";"IMPUESTO LEY 25413/II BB – INCONVENIENTE CON GENERACIÓN DE PLAZO FIJO - CUENTA CORRIENTE";"Impuesto Ley 25413/II BB – Inconveniente con generación de Plazo Fijo";"Cuenta Corriente";"S";11;11;-13;20
+"2015-12";561640;1548085;1;"R-3329654";"MACRO PREMIA  - PREMIO NO RECIBIDO";"Macro Premia  - Premio no Recibido";"Tarjeta de Crédito";"N";7;7;-8;15
+"2015-12";594354;1543596;1;"R-3191121";"RESUMEN- NO RECEPCION";"Auditoria de Resumen";"Tarjeta de Crédito";"N";41;41;-11;60
+"2015-12";628877;1435758;1;"R-3329851";"CHEQUERA NO RECIBIDA";"CHEQUERA NO RECIBIDA";"Cuenta Corriente";"N";3;3;-4;7
+"2015-12";652142;1642048;1;"R-3328126";"E_RESUMEN- NO RECEPCION";"Auditoria de E_resumen";"Tarjeta de Crédito";"N";5;5;-5;10
+"2015-12";679310;1655374;1;"R-3322802";"BONIFICACIONES – COMERCIOS VARIOS";"BONIFICACIONES – COMERCIOS VARIOS";"Tarjeta de Crédito";"N";5;5;-5;10
+"2015-12";717023;1692124;1;"R-3279072";"MACRO PREMIA  - PREMIO NO RECIBIDO";"Macro Premia  - Premio no Recibido";"Tarjeta de Crédito";"N";16;16;1;15
+"2015-12";742325;1434009;1;"R-3325103";"AEROLINEAS PLUS - MILLAJE NO ACREDITADO";"Aerolineas Plus - Millaje";"Tarjeta de Crédito";"S";15;15;-7;20
+"2015-12";769070;1536938;1;"R-3169570";"RESUMEN- NO RECEPCION";"Auditoria de Resumen";"Tarjeta de Crédito";"N";31;31;-19;60
+"2015-12";814645;1675876;1;"R-3334963";"REVERSO DE PAGO- DUPLICADO";"Reverso de Pago";"Tarjeta de Crédito";"N";2;2;-1;3
+"2015-12";862135;1733221;1;"R-3328901";"DEBITO AUTOMATICO SERV.- NO RECONOCIDO";"DEBITO AUTOMATICO SERV.- NO RECONOCIDO";"Tarjeta de Crédito";"N";16;16;-9;30
+"2015-12";899268;1770345;1;"R-3324499";"REVERSO DE PAGO- PARCIAL";"Reverso de Pago - Parcial";"Tarjeta de Crédito";"N";2;2;-3;5
+"2015-12";938743;1809064;1;"R-3249306";"BONIFICACIONES – COMERCIOS VARIOS";"BONIFICACIONES – COMERCIOS VARIOS";"Tarjeta de Crédito";"N";12;12;2;10
+"2015-12";977225;1848672;1;"R-3324755";"REVERSO DE PAGO- PARCIAL";"Reverso de Pago - Parcial";"Tarjeta de Crédito";"N";4;4;-1;5
+"2015-12";1026920;1897687;1;"R-3317774";"AJUSTE POR BAJA DE TC";"Reintegro por Baja de Cuenta no Procesada";"Tarjeta de Crédito";"N";5;5;-2;7
+"2015-12";1078554;1949267;1;"R-3293584";"AJUSTE POR BAJA DE TC";"Reintegro por Baja de Cuenta no Procesada";"Tarjeta de Crédito";"S";4;4;-5;7
+"2015-12";1123399;1994397;1;"R-3334553";"REVERSO DE PAGO- DUPLICADO";"Reverso de Pago";"Tarjeta de Crédito";"N";2;2;-1;3
+"2015-12";1159709;2030701;1;"R-3321216";"REVERSO DE PAGO- DUPLICADO";"Reverso de Pago";"Tarjeta de Crédito";"N";2;2;-1;3
+"2015-12";1219857;2090914;1;"R-3320250";"REVERSO DE PAGO- PARCIAL";"Reverso de Pago - Parcial";"Tarjeta de Crédito";"N";1;1;-4;5
+"2015-12";1256623;2127657;1;"R-3320709";"TARJETA NO RECIBIDA- SEGUIMIENTO DE ENTREGA";"Rastreo de Tarjeta ";"Tarjeta de Crédito";"N";1;1;-11;12
+"2015-12";1298922;2169964;1;"R-3327720";"AJUSTE POR BAJA DE TC";"Reintegro por Baja de Cuenta no Procesada";"Tarjeta de Crédito";"N";2;2;-5;7
+"2015-12";1341437;2212354;1;"R-3330133";"CAJ. AUTOM. MACRO (NO SUC)- NO ENTREGO DINERO";"Extracciones en Efectivo ATM Propio_Neutral no Entrego Dinero";"Tarjeta de Débito";"N";7;7;-3;10
+"2015-12";1386784;2258161;1;"R-3326955";"REVERSO DE PAGO- DUPLICADO";"Reverso de Pago";"Tarjeta de Crédito";"N";6;6;3;3
+"2015-12";1430206;2302614;1;"R-3318132";"AMPLIACION DE LIMITE DE COMPRA NO PROCESADO";"Ampliacion de Limite de Compra no Procesado ";"Tarjeta de Crédito";"N";8;8;-2;10
+"2015-12";1467389;2340141;1;"R-3328595";"AJUSTE POR BAJA DE TC";"Reintegro por Baja de Cuenta no Procesada";"Tarjeta de Crédito";"N";4;4;-3;7
+"2015-12";1507252;2381365;1;"R-3335937";"REVERSO DE PAGO- DUPLICADO";"Reverso de Pago";"Tarjeta de Crédito";"N";1;1;-2;3
+"2015-12";1532030;2407908;1;"R-3330739";"REVERSO DE PAGO- DUPLICADO";"Reverso de Pago";"Tarjeta de Crédito";"N";2;2;-1;3
+"2015-12";1535224;2409624;1;"R-3327084";"BONIFICACION NO INGRESADA - TD";"Promociones Bonificaciones/Descuentos - TD";"Caja de Ahorro";"N";5;5;0;5
+"2015-12";1555335;2974123;1;"R-3319175";"TARJETA NO RECIBIDA- SEGUIMIENTO DE ENTREGA";"Rastreo de Tarjeta ";"Tarjeta de Crédito";"N";15;15;3;12
+"2015-12";1586566;2627221;1;"R-3329155";"CAJ. AUTOM. SUC MACRO- NO ENTREGO DINERO";"Extracciones en Efectivo ATM Propio_Sucursal no entrego Dinero";"Tarjeta de Débito";"N";9;9;2;10
+"2015-12";1616052;2434461;1;"R-3321773";"GESTIVA - CUESTIONA GESTION - CARTERA";"Cuestiona Gestion de Cobranza – Gestiva - Cartera";"Préstamo";"N";16;16;6;10
+"2015-12";1644771;2466163;1;"R-3319934";"CAJ. AUTOM. SUC MACRO- NO ENTREGO DINERO";"Extracciones en Efectivo ATM Propio_Sucursal no entrego Dinero";"Tarjeta de Débito";"N";3;3;-7;10
+"2015-12";1676198;2503112;1;"R-3287822";"REVERSO DE PAGO- DUPLICADO";"Reverso de Pago";"Tarjeta de Crédito";"N";5;5;2;3
+"2015-12";1708792;2539148;1;"R-3317762";"BONIFICACIONES – COMERCIOS VARIOS";"BONIFICACIONES – COMERCIOS VARIOS";"Tarjeta de Crédito";"N";4;4;-6;10
+"2015-12";1741961;2577684;1;"R-3333198";"CAJ. AUTOM. SUC MACRO- NO ENTREGO DINERO";"Extracciones en Efectivo ATM Propio_Sucursal no entrego Dinero";"Tarjeta de Débito";"N";6;6;-4;10
+"2015-12";1769433;2608659;1;"R-3335165";"COMPRA EN PESOS- DUPLICADA - ATM";"Compra Duplicada - ATM";"Tarjeta de Débito";"N";9;9;1;60
+"2015-12";1798658;2641254;1;"R-3325039";"CAJ. AUTOM. OTRO BANCO- NO ENTREGO DINERO";"Extracciones en Efectivo ATM no Propios no Entrego Dinero";"Tarjeta de Débito";"N";13;13;-2;15
+"2015-12";1824257;2671871;1;"R-3340644";"E_RESUMEN- NO RECEPCION";"Auditoria de E_resumen";"Tarjeta de Crédito";"N";2;2;-8;10
+"2015-12";1849819;2702996;1;"R-2884687";"CONSUMO EN DOLARES- DESCONOCIDO";"Consumo Desconocido Internacional";"Tarjeta de Crédito";"N";88;88;-64;180
+"2015-12";1877752;2731220;1;"R-3332351";"REVERSO DE PAGO- DUPLICADO";"Reverso de Pago";"Tarjeta de Crédito";"N";1;1;-2;3
+"2015-12";1905054;2763589;1;"R-3337101";"TARJETA BANELCO NO RECIBIDA- SEGUIMIENTO DE ENTREGA";"Rastreo de Tarjeta Banelco";"Tarjeta de Débito";"N";3;3;-9;12
+"2015-12";1937466;2798213;1;"R-2940460";"CONSUMO EN DOLARES- DESCONOCIDO";"Consumo Desconocido Internacional";"Tarjeta de Crédito";"N";64;64;-77;180
+"2015-12";1965645;2833380;1;"R-3321637";"CIERRE/ ALTA DE CUENTA NO PROCESADA - CUENTA CORRIENTE";"Solicitud de cierre de cuenta no procesada - Cuenta Corriente";"Cuenta Corriente";"N";11;11;4;7
+"2015-12";1995205;2867089;1;"R-3334370";"E_RESUMEN- NO RECEPCION";"Auditoria de E_resumen";"Tarjeta de Crédito";"N";0;0;-10;10
+"2015-12";2026586;2900522;1;"R-3325238";"DEVOLUCION DE SALDO ACREEDOR C/DEUTCP";"Devolución de saldo acreedor c/deutcp";"Tarjeta de Crédito";"N";10;10;-10;20
+"2015-12";2067478;2947115;1;"R-3337946";"BONIFICACION NO INGRESADA - TD";"Promociones Bonificaciones/Descuentos - TD";"Caja de Ahorro";"N";2;2;-3;5
+"2015-12";2101716;2985247;1;"R-3322645";"AJUSTE POR BAJA DE TC";"Reintegro por Baja de Cuenta no Procesada";"Tarjeta de Crédito";"N";5;5;-2;7
+"2015-12";2127984;3015743;1;"R-3317872";"BONIFICACIONES – COMERCIOS VARIOS";"BONIFICACIONES – COMERCIOS VARIOS";"Tarjeta de Crédito";"N";6;6;-4;10
+"2015-12";2177789;3052569;1;"R-3323819";"CUESTIONA FECHA DE DEBITO DE CUOTA - CARTERA DE CREDITO";"Cuestiona Fecha de Debito de Cuota - Cartera de Credito";"Préstamo";"N";1;1;-4;5
+"2015-12";2215507;3090672;1;"R-3321725";"CAJ. AUTOM. SUC MACRO- NO ENTREGO DINERO";"Extracciones en Efectivo ATM Propio_Sucursal no entrego Dinero";"Tarjeta de Débito";"N";4;4;-6;10
+"2015-12";2253209;3129135;1;"R-3328704";"REINTEGRO CARGO MENSUAL";"Reintegro Cargo Mensual";"Tarjeta de Crédito";"S";2;2;-4;5
+"2015-12";2291990;3169659;1;"R-3338050";"CAJ. AUTOM. OTRO BANCO- NO ENTREGO DINERO";"Extracciones en Efectivo ATM no Propios no Entrego Dinero";"Tarjeta de Débito";"N";4;4;-11;15
+"2015-12";2328242;3207926;1;"R-3327489";"REVERSO DE PAGO- DUPLICADO";"Reverso de Pago";"Tarjeta de Crédito";"N";3;3;0;3
+"2015-12";2356033;3235268;1;"R-3321807";"E_RESUMEN- NO RECEPCION";"Auditoria de E_resumen";"Tarjeta de Crédito";"N";2;2;-8;10
+"2015-12";2860628;3275296;1;"R-3275817";"BONIFICACIONES – COMERCIOS VARIOS";"BONIFICACIONES – COMERCIOS VARIOS";"Tarjeta de Crédito";"N";8;8;-2;10
+"2015-12";2901290;3307769;1;"R-3289573";"TARJETA BANELCO NO RECIBIDA- SEGUIMIENTO DE ENTREGA";"Rastreo de Tarjeta Banelco";"Tarjeta de Débito";"N";18;18;6;12
+"2015-12";2954704;3351548;1;"R-3329315";"CAJ. AUTOM. SUC MACRO- NO ENTREGO DINERO";"Extracciones en Efectivo ATM Propio_Sucursal no entrego Dinero";"Tarjeta de Débito";"N";5;5;-5;10
+"2015-12";3013777;3397682;1;"R-3293012";"REVERSO DE PAGO- DUPLICADO";"Reverso de Pago";"Tarjeta de Crédito";"N";4;4;1;3
+"2015-12";3055404;3430376;1;"R-3325599";"REVERSO DE PAGO- PARCIAL";"Reverso de Pago - Parcial";"Tarjeta de Crédito";"N";4;4;-1;5
+"2015-12";3120391;5004895;1;"R-3301256";"BONIFICACIONES – COMERCIOS VARIOS";"BONIFICACIONES – COMERCIOS VARIOS";"Tarjeta de Crédito";"N";3;3;-7;10
+"2015-12";3154642;5053439;1;"R-3322085";"CAJ. AUTOM. MACRO (NO SUC)- NO ENTREGO DINERO";"Extracciones en Efectivo ATM Propio_Neutral no Entrego Dinero";"Tarjeta de Débito";"N";8;8;-2;10
+"2015-12";3180080;5095163;1;"R-3327017";"REVERSO DE PAGO- DUPLICADO";"Reverso de Pago";"Tarjeta de Crédito";"N";9;9;6;3
+"2015-12";3198702;5122543;1;"R-3234311";"MACRO PREMIA  - PREMIO NO RECIBIDO";"Macro Premia  - Premio no Recibido";"Tarjeta de Crédito";"N";23;23;8;15
+"2015-12";3224751;5152326;1;"R-3321227";"BONIFICACIONES – COMERCIOS VARIOS";"BONIFICACIONES – COMERCIOS VARIOS";"Tarjeta de Crédito";"N";18;18;8;10
+"2015-12";3244629;5186331;1;"R-3245111";"DESCONOCE PAGO DE SERVICIO";"Desconocimiento de Pago de Servicio por ATM - Macro Direct";"Tarjeta de Débito";"N";13;13;6;7
+"2015-12";3272020;5222371;1;"R-3325615";"BONIFICACIONES – COMERCIOS VARIOS";"BONIFICACIONES – COMERCIOS VARIOS";"Tarjeta de Crédito";"S";8;8;-6;10
+"2015-12";3307575;5257904;1;"R-3306163";"REVERSO DE PAGO- DUPLICADO";"Reverso de Pago";"Tarjeta de Crédito";"N";2;2;-1;3
+"2015-12";3341347;5316170;1;"R-3132680";"CONSUMOS EN PESOS- DUPLICADO - CAT";"Consumos Duplicados";"Tarjeta de Crédito";"N";42;42;-10;60
+"2015-12";3369004;5353877;1;"R-3330644";"E_RESUMEN- NO RECEPCION";"Auditoria de E_resumen";"Tarjeta de Crédito";"N";1;1;-9;10
+"2015-12";3393195;5392044;1;"R-3180591";"RESUMEN- NO RECEPCION";"Auditoria de Resumen";"Tarjeta de Crédito";"N";42;42;-11;60
+"2015-12";3417753;5425784;1;"R-3215836";"MACRO PREMIA  - PREMIO NO RECIBIDO";"Macro Premia  - Premio no Recibido";"Tarjeta de Crédito";"N";12;12;-3;15
+"2015-12";3435049;5445728;1;"R-3332527";"DEVOLUCION SALDO ACREEDOR";"Devolucion Saldo Acreedor ";"Tarjeta de Crédito";"N";3;3;0;3
+"2015-12";3487520;5178504;1;"R-3327037";"REVERSO DE PAGO- DUPLICADO";"Reverso de Pago";"Tarjeta de Crédito";"N";6;6;3;3
+"2015-12";3514430;5371860;1;"R-3328954";"AJUSTE POR BAJA DE TC";"Reintegro por Baja de Cuenta no Procesada";"Tarjeta de Crédito";"N";1;1;-6;7
+"2015-12";3540838;5082327;1;"R-3339322";"AJUSTE POR BAJA DE TC";"Reintegro por Baja de Cuenta no Procesada";"Tarjeta de Crédito";"N";1;1;-6;7
+"2015-12";3570638;5129447;1;"R-3336511";"TARJETA BANELCO NO RECIBIDA- SEGUIMIENTO DE ENTREGA";"Rastreo de Tarjeta Banelco";"Tarjeta de Débito";"N";6;6;-6;12
+"2015-12";5349514;6690470;1;"R-3335902";"DATOS PERSONALES-SUPRESION DATOS DEL CLIENTE CON FINES PUBLICIDAD";"Datos Personales-Supresion Datos del Cliente con Fines Publicidad";"Datos personales";"N";1;1;-4;5
+"2015-12";5400222;6735557;1;"R-3323550";"CAJ. AUTOM. SUC MACRO- NO ENTREGO DINERO";"Extracciones en Efectivo ATM Propio_Sucursal no entrego Dinero";"Tarjeta de Débito";"N";8;8;-2;10
+"2015-12";5477487;6804158;1;"R-3192251";"CAMPAÑA MACRO PREMIA / PUNTOS NO ACREDITADOS";"Promociones - Puntos Macro Premia no Acreditados";"Tarjeta de Crédito";"N";14;14;7;7
+"2015-12";3627773;5538170;1;"R-3325480";"BONIFICACIONES – COMERCIOS VARIOS";"BONIFICACIONES – COMERCIOS VARIOS";"Tarjeta de Crédito";"N";5;5;-5;10
+"2015-12";3664985;5581660;1;"R-3243368";"TARJETA NO RECIBIDA- SEGUIMIENTO DE ENTREGA";"Rastreo de Tarjeta ";"Tarjeta de Crédito";"N";9;9;-3;12
+"2015-12";3769367;5692119;1;"R-2752957";"MACRO PREMIA - CUESTIONA ESTADO DEL PRODUCTO";"Macro Premia - Cuestiona Estado del Producto";"Tarjeta de Crédito";"N";65;65;55;10
+"2015-12";5541541;6860572;1;"R-3313831";"REVERSO DE PAGO- DUPLICADO";"Reverso de Pago";"Tarjeta de Crédito";"N";4;4;1;3
+"2015-12";5590869;6904564;1;"R-3324958";"E_RESUMEN- NO RECEPCION";"Auditoria de E_resumen";"Tarjeta de Crédito";"N";3;3;-7;10
+"2015-12";5647394;6953288;1;"R-3230413";"COMPRA EN DOLARES DESCONOCIDA - ATM";"Compra Desconocida Internacional - ATM";"Tarjeta de Débito";"N";28;28;-102;180
+"2015-12";3922732;5834075;1;"R-3290635";"TARJETA NO RECIBIDA- SEGUIMIENTO DE ENTREGA";"Rastreo de Tarjeta ";"Tarjeta de Crédito";"N";5;5;-7;12
+"2015-12";3985684;5897576;1;"R-3319406";"COMPRA EN PESOS- DUPLICADA - ATM";"Compra Duplicada - ATM";"Tarjeta de Débito";"N";13;13;-32;60
+"2015-12";4038170;5949884;1;"R-3340198";"AJUSTE POR BAJA DE TC";"Reintegro por Baja de Cuenta no Procesada";"Tarjeta de Crédito";"N";0;0;-7;7
+"2015-12";4084155;5996338;1;"R-3053474";"COMPRA EN PESOS- DESCONOCIDA - ATM";"Compra Desconocida - ATM";"Tarjeta de Débito";"N";59;59;0;60
+"2015-12";4136655;6049481;1;"R-3335331";"BONIFICACIONES – CENTRO COMERCIAL/SHOPPING";"BONIFICACIONES – CENTRO COMERCIAL/SHOPPING";"Tarjeta de Crédito";"N";7;7;-3;10
+"2015-12";4199327;6113383;1;"R-3064121";"RESUMEN- NO RECEPCION";"Auditoria de Resumen";"Tarjeta de Crédito";"N";49;49;-7;60
+"2015-12";4248729;6162645;1;"R-3337154";"QUEJA CARACTERISTICA/ COSTO DEL PRODUCTO";"Queja del Producto";"Queja de atencion o productos";"N";6;6;-4;10
+"2015-12";4275626;6190199;1;"R-3039336";"CONSUMOS EN PESOS- DUPLICADO - CAT";"Consumos Duplicados";"Tarjeta de Crédito";"N";54;54;25;15
+"2015-12";4305067;6242045;1;"R-3339927";"RESUMEN- NO RECEPCION";"Auditoria de Resumen";"Tarjeta de Crédito";"N";1;1;-40;60
+"2015-12";4336403;6285071;1;"R-3336638";"GESTIVA - CUESTIONA GESTION - CARTERA";"Cuestiona Gestion de Cobranza – Gestiva - Cartera";"Préstamo";"N";2;2;-8;10
+"2015-12";4363532;6311111;1;"R-3318324";"MACRO PREMIA  - PREMIO NO RECIBIDO";"Macro Premia  - Premio no Recibido";"Tarjeta de Crédito";"N";19;19;4;15
+"2015-12";4390137;6341469;1;"R-3334743";"TARJETA NO RECIBIDA- SEGUIMIENTO DE ENTREGA";"Rastreo de Tarjeta ";"Tarjeta de Crédito";"N";3;3;-9;12
+"2015-12";4419588;6405208;1;"R-3338278";"QUEJA CARACTERISTICA/ COSTO DEL PRODUCTO";"Queja del Producto";"Queja de atencion o productos";"N";2;2;-8;10
+"2015-12";4444680;6446553;1;"R-3207402";"RESUMEN- NO RECEPCION";"Auditoria de Resumen";"Tarjeta de Crédito";"N";21;21;-23;60
+"2015-12";4476358;6477518;1;"R-3335108";"AJUSTE POR BAJA DE TC";"Reintegro por Baja de Cuenta no Procesada";"Tarjeta de Crédito";"N";0;0;-7;7
+"2015-12";4511434;6537478;1;"R-3335211";"NO POSEE DISPONIBLE DE COMPRA";"No Posee Disponible de Compra";"Tarjeta de Crédito";"N";5;5;2;3
+"2015-12";4559708;6588742;1;"R-3071945";"CONSUMOS EN PESOS- DUPLICADO - CAT";"Consumos Duplicados";"Tarjeta de Crédito";"N";62;62;2;60
+"2015-12";4720397;6618939;1;"R-3326369";"CUESTIONA COMISIONES - CAJA DE AHORRO";"Cuestiona Comisiones - Caja de Ahorro";"Caja de Ahorro";"N";1;1;-4;5
+"2015-12";5721655;7018742;1;"R-3322575";"AJUSTE POR BAJA DE TC";"Reintegro por Baja de Cuenta no Procesada";"Tarjeta de Crédito";"N";5;5;-2;7
+"2015-12";5868202;7116032;1;"R-3241464";"DEBITO AUTOMATICO SERV.- NO RECONOCIDO";"DEBITO AUTOMATICO SERV.- NO RECONOCIDO";"Tarjeta de Crédito";"N";35;35;3;30
+"2015-12";5953577;7195562;1;"R-3335512";"DEPOSITO INMEDIATO CAJ. AUTOM.MACRO- NO ACREDITADO - CUENTA CORRIENTE";"Depósito inmediato Caj Autom Macro - no acreditado";"Cuenta Corriente";"N";1;1;-6;7
+"2015-12";6009604;7244087;1;"R-3337993";"CUESTIONA FECHA DE DEBITO DE CUOTA - CARTERA DE CREDITO";"Cuestiona Fecha de Debito de Cuota - Cartera de Credito";"Préstamo";"N";2;2;-3;5
+"2015-12";6055903;7284158;1;"R-3330759";"AJUSTE POR BAJA DE TC";"Reintegro por Baja de Cuenta no Procesada";"Tarjeta de Crédito";"N";4;4;-3;7
+"2015-12";6097365;7320640;1;"R-3318080";"BONIFICACIONES – COMERCIOS VARIOS";"BONIFICACIONES – COMERCIOS VARIOS";"Tarjeta de Crédito";"N";9;9;-1;10
+"2015-12";6143979;7363182;1;"R-3319090";"TARJETA BANELCO NO RECIBIDA- SEGUIMIENTO DE ENTREGA";"Rastreo de Tarjeta Banelco";"Tarjeta de Débito";"N";14;14;2;12
+"2015-12";6187309;7399601;1;"R-3321960";"CAJ. AUTOM. OTRO BANCO- DESCONOCE RETIRO";"Desconocimiento de Extracciones ATM No Propio";"Tarjeta de Débito";"N";7;7;0;15
+"2015-12";6239387;7446761;1;"R-3330392";"E_RESUMEN- NO RECEPCION";"Auditoria de E_resumen";"Tarjeta de Crédito";"N";5;5;-5;10
+"2015-12";6271915;7473815;1;"R-3323351";"REVERSO DE PAGO- PARCIAL";"Reverso de Pago - Parcial";"Tarjeta de Crédito";"N";4;4;-1;5
+"2015-12";6309070;7508777;1;"R-3217745";"RESUMEN- NO RECEPCION";"Auditoria de Resumen";"Tarjeta de Crédito";"N";24;24;-24;60
+"2015-12";6346968;7541461;1;"R-3334314";"ACUERDO SOBREGIRO NO DISPONIBLE - CUENTA CORRIENTE";"Acuerdo de sobregiro no disponible";"Cuenta Corriente";"N";4;4;-3;7
+"2015-12";6645640;7802929;1;"R-3271254";"TARJETA BANELCO NO RECIBIDA- SEGUIMIENTO DE ENTREGA";"Rastreo de Tarjeta Banelco";"Tarjeta de Débito";"N";7;7;-5;12
+"2015-12";6711321;7859597;1;"R-3335052";"AJUSTE POR BAJA DE TC";"Reintegro por Baja de Cuenta no Procesada";"Tarjeta de Crédito";"N";0;0;-7;7
+"2015-12";6763873;7903898;1;"R-3321688";"DEBITO AUTOMATICO DESCONOCIDO DE SERVICIO - CAJA DE AHORRO";"Debito Automatico Desconocido de Servicio - Caja de Ahorro";"Caja de Ahorro";"N";2;2;-5;7
+"2015-12";6389599;7579700;1;"R-3317601";"REINTEGRO CARGO MENSUAL";"Reintegro Cargo Mensual";"Tarjeta de Crédito";"N";1;1;-4;5
+"2015-12";6435472;7619980;1;"R-3324911";"CUENTA NO RECONOCIDA POR EL CLIENTE- CAJA DE AHORRO";"Acuerdo de sobregiro no disponible";"Caja de Ahorro";"N";1;1;-6;7
+"2015-12";6501160;7675178;1;"R-3341189";"DEVOLUCION SALDO ACREEDOR";"Devolucion Saldo Acreedor ";"Tarjeta de Crédito";"N";1;1;-2;3
+"2015-12";6551305;7718662;1;"R-3321936";"REVERSO DE PAGO- DUPLICADO";"Reverso de Pago";"Tarjeta de Crédito";"N";2;2;-1;3
+"2015-12";6600446;7761178;1;"R-3322577";"BONIFICACIONES – COMERCIOS VARIOS";"BONIFICACIONES – COMERCIOS VARIOS";"Tarjeta de Crédito";"N";4;4;-6;10
+"2015-12";6823860;7956927;1;"R-3032268";"CONSUMO EN PESOS- DESCONOCIDO - CAT";"Consumo desconocido Nacional CAT";"Tarjeta de Crédito";"N";69;69;6;60
+"2015-12";6858027;7985782;1;"R-3337541";"REVERSO DE PAGO- DUPLICADO";"Reverso de Pago";"Tarjeta de Crédito";"N";3;3;0;3
+"2015-12";6907736;8030851;1;"R-3246662";"BONIFICACIONES – COMERCIOS VARIOS";"BONIFICACIONES – COMERCIOS VARIOS";"Tarjeta de Crédito";"N";11;11;1;10
+"2015-12";6946966;8065743;1;"R-3326024";"REVERSO DE PAGO- DUPLICADO";"Reverso de Pago";"Tarjeta de Crédito";"N";0;0;-3;3
+"2015-12";7009575;8121022;1;"R-3289213";"CAJ. AUTOM. SUC MACRO- NO ENTREGO DINERO";"Extracciones en Efectivo ATM Propio_Sucursal no entrego Dinero";"Tarjeta de Débito";"N";5;5;-5;10
+"2015-12";7145345;8249478;1;"R-3335606";"REVERSO DE PAGO- DUPLICADO";"Reverso de Pago";"Tarjeta de Crédito";"N";4;4;1;3
+"2015-12";7243141;8337212;1;"R-3166954";"DEBITO AUTOMATICO SERV.- NO RECONOCIDO";"DEBITO AUTOMATICO SERV.- NO RECONOCIDO";"Tarjeta de Crédito";"N";39;39;7;30
+"2015-12";7305920;8392522;1;"R-3211345";"TARJETA NO RECIBIDA- SEGUIMIENTO DE ENTREGA";"Rastreo de Tarjeta ";"Tarjeta de Crédito";"N";27;27;15;12
+"2015-12";7369716;8452643;1;"R-3335309";"CAJ. AUTOM. SUC MACRO- NO ENTREGO DINERO";"Extracciones en Efectivo ATM Propio_Sucursal no entrego Dinero";"Tarjeta de Débito";"N";6;6;-4;10
+"2015-12";7428168;8505957;1;"R-3330198";"DESCONOCE PAGO DE SERVICIO";"Desconocimiento de Pago de Servicio por ATM - Macro Direct";"Tarjeta de Débito";"N";3;3;-4;7
+"2015-12";7457236;8532562;1;"R-3317560";"TARJETA NO RECIBIDA- SEGUIMIENTO DE ENTREGA";"Rastreo de Tarjeta ";"Tarjeta de Crédito";"N";5;5;-7;12
