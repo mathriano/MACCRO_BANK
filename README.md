@@ -1,6 +1,5 @@
 # MACCRO_BANK
-Micro-Segmentation of customer Active/Pasive portfolio: Action Clusters–Feature Vectors methodology on Demo/Geographics, Behavioral/Attitudinal and Financial/Risk/Purchase profiles, using channels: IVR / POSNET / ONLINE / BRANCH / ATM / TAS / Central Bank of Argentina (BCRA reports)
-ABSTRACT
+
 The files and documentation incorporated here are in relation to the data processing of the customer's dimensions in their interaction with their environment and with information on their bank accounts. The structured information allows to understand and unify needs to compromise the link with MACCRO BANK (BM) with messaging relevant to the specific customer through its channels of interaction. The segments are created from an analytical base where a series of descriptive and predictive facets, called Feature Vectors, are developed in several dimensions to describe and predict the behavior of the individual. The result is a set of data that contains all the necessary information to achieve a level of commitment of the individual as extreme personalization, including the preferences of
 • channels of the value proposal offered by BM,
 •	media,
